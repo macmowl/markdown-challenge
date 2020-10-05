@@ -7,6 +7,7 @@
 ### Moi, en une phrase.
 
 | Birthday           | 23/10/85|
+|--------------------|---------|
 | Favorite color     | green   |
 | Favorite food      | Pizza   |
 | Pinneaple on pizza |  []     |
