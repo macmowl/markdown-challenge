@@ -10,7 +10,7 @@
 |--------------------|---------|
 | Favorite color     | green   |
 | Favorite food      | Pizza   |
-| Pinneaple on pizza |  NO     |
+| Pinneaple on pizza |  -[X]     |
 
 ## Hobbies
 
