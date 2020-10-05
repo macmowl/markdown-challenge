@@ -22,5 +22,11 @@
   * my friends
 
 ## You can always count on me when...
+You want to drink a good beer :)
+I'm not the best person to explain things but I improve myself every day. So If you are in trouble, I maybe can do something. Just ask.
 
 ## A funny story
+
+When I was a scout, we went kayaking and at the end of day, the bus arrived to take us back to the start (where our parents were waiting for us). But my chiefs forgot me along the river. They finally found walking the street alone with my diving suit and the kayak paddle...
+
+[<< Previous]() || **Alan** || [Next >>]()
