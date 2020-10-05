@@ -10,7 +10,7 @@
 |--------------------|---------|
 | Favorite color     | green   |
 | Favorite food      | Pizza   |
-| Pinneaple on pizza |  -[X]     |
+| Pinneaple on pizza |  -[X]   |
 
 ## Hobbies
 
@@ -27,6 +27,10 @@ I'm not the best person to explain things but I improve myself every day. So If 
 
 ## A funny story
 
-When I was a scout, we went kayaking and at the end of day, the bus arrived to take us back to the start (where our parents were waiting for us). But my chiefs forgot me along the river. They finally found walking the street alone with my diving suit and the kayak paddle...
+When I was a scout, we went kayaking and at the end of day, the bus arrived to take us back to the start (where our parents were waiting for us). But my chiefs forgot me along the river. They finally found me walking the street alone with my diving suit and the kayak paddle...
+
+**TL;DR**
+
+Always get a bi-person kayak.
 
 [<< Previous](https://github.com/JonathanMaillard/markdown-challenge) || **Alan** || [Next >>](https://github.com/Marmouz82/markdown-challenge)
