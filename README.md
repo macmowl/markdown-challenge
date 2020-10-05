@@ -10,11 +10,7 @@
 |--------------------|---------|
 | Favorite color     | green   |
 | Favorite food      | Pizza   |
-| Pinneaple on pizza |  NO   |
-
-- [x] mlkj
-- [ ] mlkj
-- [ ] mlkj
+| Pinneaple on pizza |  NO     |
 
 ## Hobbies
 
