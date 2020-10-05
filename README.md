@@ -12,6 +12,10 @@
 | Favorite food      | Pizza   |
 | Pinneaple on pizza |  -[X]   |
 
+[x]
+[X]
+[]
+
 ## Hobbies
 
 * Diving
