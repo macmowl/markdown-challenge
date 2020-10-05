@@ -13,8 +13,8 @@
 | Pinneaple on pizza |  NO   |
 
 - [x] mlkj
-- [x] mlkj
-- [x] mlkj
+- [] mlkj
+- [] mlkj
 
 ## Hobbies
 
