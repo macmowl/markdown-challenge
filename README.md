@@ -11,3 +11,16 @@
 | Favorite color     | green   |
 | Favorite food      | Pizza   |
 | Pinneaple on pizza |  []     |
+
+## Hobbies
+
+* Diving
+* Trekking
+* Reading
+* Spend time with :
+  * my family
+  * my friends
+
+## You can always count on me when...
+
+## A funny story
