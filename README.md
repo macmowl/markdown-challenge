@@ -33,4 +33,4 @@ When I was a scout, we went kayaking. At the end of day, the bus arrived to take
 
 Always get a bi-person kayak.
 
-**Alan** || [Next >>](https://github.com/Aline-Daems/markdown-challenge)
+[<< Previous](https://github.com/Tanya-Amber-L/Markdown-Challenge/blob/main/README.md) **Alan** || [Next >>](https://github.com/Aline-Daems/markdown-challenge)
